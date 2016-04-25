@@ -1,3 +1,7 @@
+// エンコードは "Shift-JIS" で保存しないと逝く
+// または "-encoding UTF-8"  を指定してコンパイル
+// javac -encoding UTF-8 Chapter1.java
+
 class Chapter1 {
   public static void main (String[] args) {
     question3();
